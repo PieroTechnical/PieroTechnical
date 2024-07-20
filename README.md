@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PieroTechnical
-- 👀 I’m interested in writing tools to speed up workflows, making pretty UIs and making games
-- 🌱 I’m currently learning Python, C#, C++ and Computer Science (self taught)
+- 👀 I’m interested in writing tools to speed up workflows and making games
+- 🌱 I’m currently learning C++, and taking my C# and Python skills to the next level
 - 📫 You may reach me by email at daniel@pierotechnical.com
